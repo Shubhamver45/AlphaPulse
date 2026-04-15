@@ -1,0 +1,17 @@
+# Data
+data/raw/
+data/*.csv
+!data/data_quality_report.csv
+tableau_exports/*.csv
+
+# Logs & Temp
+logs/
+*.log
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Environment
+.env
+venv/
+env/
