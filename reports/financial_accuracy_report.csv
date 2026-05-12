@@ -1,0 +1,4 @@
+Metric,Value,Benchmark,Status
+Portfolio Beta,0.8373,1.0,PASS
+Tracking Error (%),6.52,N/A,PASS
+VaR Differential (%),-0.19,0.0,PASS
